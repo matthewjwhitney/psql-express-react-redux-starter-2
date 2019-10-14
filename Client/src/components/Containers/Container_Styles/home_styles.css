@@ -1,0 +1,9 @@
+
+
+
+.FlexHomeRow {
+  display: flex;
+  flex-direction: row;
+  margin-top: 56px;
+  margin-bottom: 100px;
+}
